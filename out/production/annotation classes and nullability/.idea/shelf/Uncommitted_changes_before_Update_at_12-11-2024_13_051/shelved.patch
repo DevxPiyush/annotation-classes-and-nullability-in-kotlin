@@ -1,0 +1,15 @@
+Index: safe call.kt
+===================================================================
+diff --git a/safe call.kt b/safe call.kt
+new file mode 100644
+--- /dev/null	
++++ b/safe call.kt	
+@@ -0,0 +1,7 @@
++fun main(){
++    var message:String? = "hello world"
++    println(message?.length) // using ?. instead of . - known as safecall
++    println(message?.uppercase())
++    message = null
++    println(message?.length) // using saafecall but left wala is numm to printing null value
++}
+\ No newline at end of file

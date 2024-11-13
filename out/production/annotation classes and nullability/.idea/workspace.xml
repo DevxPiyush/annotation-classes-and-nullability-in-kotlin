@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dcc706e3-c0ac-4fe9-a4b7-c3cb2ea9b696" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/filenullability.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pratice handling nullability.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/annotation classes and nullability/META-INF/annotation classes and nullability.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/annotation classes and nullability/META-INF/annotation classes and nullability.kotlin_module" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="PIYUSH AGROYA &lt;141745241+piyushdevx@users.noreply.github.com&gt;" />
+      </list>
+    </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;DevxPiyush&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/DevxPiyush/annotation-classes-and-nullability-in-kotlin.git&quot;,
+    &quot;accountId&quot;: &quot;a610ccfd-c99b-4175-8f21-3c1a666bbe2f&quot;
+  }
+}</component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2mkackYIeptSnO9VHcZRbXOcwQ6" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="1" id="Remove" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Kotlin.Annotation_class_example_1Kt.executor": "Run",
+    "Kotlin.FilenullabilityKt.executor": "Run",
+    "Kotlin.NullabilityKt.executor": "Run",
+    "Kotlin.Pratice_handling_nullabilityKt.executor": "Run",
+    "Kotlin.Safe_callKt.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/piyus/OneDrive/Desktop/annotation classes and nullability",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dcc706e3-c0ac-4fe9-a4b7-c3cb2ea9b696" name="Changes" comment="" />
+      <created>1727623109611</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727623109611</updated>
+    </task>
+    <task id="LOCAL-00001" summary="basic annotation code">
+      <option name="closed" value="true" />
+      <created>1727712670214</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727712670214</updated>
+    </task>
+    <task id="LOCAL-00002" summary="basic annotation code">
+      <option name="closed" value="true" />
+      <created>1727712699510</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727712699510</updated>
+    </task>
+    <task id="LOCAL-00003" summary="annotation classes">
+      <option name="closed" value="true" />
+      <created>1727720294930</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727720294930</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Delete out/production/annotation classes and nullability directory">
+      <option name="closed" value="true" />
+      <created>1731397011046</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731397011046</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Delete out/production/annotation classes and nullability directory">
+      <option name="closed" value="true" />
+      <created>1731397025995</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731397025995</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Delete out/production/annotation classes and nullability directory">
+      <option name="closed" value="true" />
+      <created>1731397039747</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1731397039747</updated>
+    </task>
+    <task id="LOCAL-00007" summary="safe call in commit">
+      <option name="closed" value="true" />
+      <created>1731397167135</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1731397167135</updated>
+    </task>
+    <task id="LOCAL-00008" summary="safe call in commit">
+      <option name="closed" value="true" />
+      <created>1731397176265</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1731397176265</updated>
+    </task>
+    <task id="LOCAL-00009" summary="safe call in kotlin">
+      <option name="closed" value="true" />
+      <created>1731397269708</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1731397269708</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="basic annotation code" />
+    <MESSAGE value="annotation classes" />
+    <MESSAGE value="safe call in commit" />
+    <MESSAGE value="Delete out/production/annotation classes and nullability directory" />
+    <MESSAGE value="safe call in kotlin" />
+    <option name="LAST_COMMIT_MESSAGE" value="safe call in kotlin" />
+  </component>
+</project>
